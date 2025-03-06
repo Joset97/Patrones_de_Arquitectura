@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrgir\\Desktop\\VANGUARDIA\\Para la expo\\Proyectos\\Cliente-Servidor\\Server\\Server.csproj": {}
+    "C:\\Users\\jrgir\\Desktop\\VANGUARDIA\\Para la expo\\Patrones_de_Arquitectura\\Proyectos(Cliente-Servidor)\\Cliente-Servidor\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jrgir\\Desktop\\VANGUARDIA\\Para la expo\\Proyectos\\Cliente-Servidor\\Server\\Server.csproj": {
+    "C:\\Users\\jrgir\\Desktop\\VANGUARDIA\\Para la expo\\Patrones_de_Arquitectura\\Proyectos(Cliente-Servidor)\\Cliente-Servidor\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrgir\\Desktop\\VANGUARDIA\\Para la expo\\Proyectos\\Cliente-Servidor\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\jrgir\\Desktop\\VANGUARDIA\\Para la expo\\Patrones_de_Arquitectura\\Proyectos(Cliente-Servidor)\\Cliente-Servidor\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\jrgir\\Desktop\\VANGUARDIA\\Para la expo\\Proyectos\\Cliente-Servidor\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\jrgir\\Desktop\\VANGUARDIA\\Para la expo\\Patrones_de_Arquitectura\\Proyectos(Cliente-Servidor)\\Cliente-Servidor\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\jrgir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrgir\\Desktop\\VANGUARDIA\\Para la expo\\Proyectos\\Cliente-Servidor\\Server\\obj\\",
+        "outputPath": "C:\\Users\\jrgir\\Desktop\\VANGUARDIA\\Para la expo\\Patrones_de_Arquitectura\\Proyectos(Cliente-Servidor)\\Cliente-Servidor\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

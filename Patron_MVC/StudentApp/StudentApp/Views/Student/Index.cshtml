@@ -1,0 +1,19 @@
+@model List<StudentApp.Models.Student>
+
+<h2>Lista de Estudiantes</h2>
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+        <th>Email</th>
+    </tr>
+    @foreach (var student in Model)
+    {
+        <tr>
+            <td>@student.Id</td>
+            <td>@student.Name</td>
+            <td>@student.Email</td>
+        </tr>
+    }
+</table>
+<a href="/Student/Create">Agregar Estudiante</a>
